@@ -1,3 +1,3 @@
-# Friday the 13th:The Game Localization updater
-A updater for localization of Friday the 13th:The Game 
-It will helps you to update your third-part localization into new version of it faster.
+# Unreal 4 Localization updater
+A updater for localization of Unreal 4 games(e.g Friday the 13th)
+It will helps you to transforming your third-part localization into new version of it faster.
